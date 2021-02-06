@@ -8,6 +8,6 @@
 
 ### Design documents
 
-- [Project 1: Threads](doc/Project1 threads.md "Project1 threads")
-- [Project 2: User Programs](doc/Project2 userprog.md "Project2 userprog")
+- [Project 1: Threads](doc/Project1.md "Project1 threads")
+- [Project 2: User Programs](doc/Project2.md "Project2 userprog")
 
